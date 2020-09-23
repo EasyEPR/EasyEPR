@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## EasyEPR
 
-You can use the [editor on GitHub](https://github.com/EasyEPR/EasyEPR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+EasyEPR is a mobile app designed to make writing EPR bullets easier. \
+Available for iPhone/iPad. Android release in progress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Privacy Policy
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We Collect No Personal Information Using Our Applications
 
 ```markdown
-Syntax highlighted code block
+EasyEPR does not store your data, period.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+We physically can't. We have nowhere to store it. We don't even have a server
+database to store it. Even if we were asked to show your data, we wouldn't
+have anything to show.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
+Reach us at easyeprapp@gmail.com or [twitter](https://twitter.com/easyeprapp).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EasyEPR/EasyEPR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
